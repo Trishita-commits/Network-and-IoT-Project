@@ -1,4 +1,4 @@
-# Wireshark Mini Project
+# Wireshark Mini Project 
 
 This project parses `.pcapng` network capture files using PyShark, analyzes packet metadata, and exports the result to Excel for dashboard creation.
 
@@ -16,3 +16,4 @@ This project parses `.pcapng` network capture files using PyShark, analyzes pack
 ## How to Run
 1. Install dependencies with `pip install pyshark pandas numpy`
 2. Run the script with Python
+
